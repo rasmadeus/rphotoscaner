@@ -1,3 +1,2 @@
 # Photo scaner
-Photo scaner
-C++, Qt, OpenCV
+Tools: C++, Qt, OpenCV
